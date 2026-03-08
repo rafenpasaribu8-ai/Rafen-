@@ -1,0 +1,8 @@
+{
+  "name": "RAFEN AI - Ultra AI Studio",
+  "description": "A cutting-edge AI workspace featuring RAFEN AI for deep thinking, real-time search, and high-quality image generation with Nano Banana Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
